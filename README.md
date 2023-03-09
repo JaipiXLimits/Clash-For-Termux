@@ -1,2 +1,2 @@
 # Clash-For-Termux
-Clash ForbTermux
+Clash For Termux
